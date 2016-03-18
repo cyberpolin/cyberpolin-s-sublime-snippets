@@ -17,6 +17,6 @@ and clone this project there.
 
 ## How to use it?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVhskU4fjEo" frameborder="0" allowfullscreen></iframe>
+[![Pseudo code snippet](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/ZVhskU4fjEo "Pseudo code snippet")
 
 Good to go!
